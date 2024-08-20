@@ -1,0 +1,497 @@
+@media only screen and (min-width:1920px) {    
+}
+
+@media only screen and (min-width:1600px) and (max-width:1900px){
+
+}
+
+@media only screen and (min-width:1300px) and (max-width:1390px){
+    
+}
+@media only screen and (min-width:1200px) and (max-width:1280px){
+
+    .content h1 {
+        font-size: 50px;
+    }
+    .content p {
+        font-size: 15px;
+    }
+
+
+    
+}
+
+
+@media only screen and (max-width:1180px){
+    .content h1 {
+        font-size: 50px;
+    }
+    .content p {
+        font-size: 15px;
+    }
+
+    .card {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+    .card3 h3 {
+        font-size: 16px;
+    
+    }
+.section2{
+    padding: 90px 20px;
+}
+.down{
+    font-size: 25px;
+}
+.main2{
+    width: 51%;
+}
+
+.playbutton i {
+    padding: 14px 17px;}
+
+    .playbutton {
+        left: 39px;
+    }
+.pro a{
+    font-size: 8px;
+    padding: 20px 80px;
+}
+.log {
+    width: 12%;
+}
+.logos{
+    padding: 0 20px;
+}
+.pro{
+    padding: 0 20px;
+}
+.topic {
+    padding-left: 170px;
+    padding-right: 615px;
+}
+
+
+.topic h3 {
+    font-size: 25px;
+}
+.form1 p{
+    font-size: 13px;
+}
+.best2 p{
+    font-size: 17px;
+}
+
+.top{
+    padding: 0 20px;
+}
+.footer1 {
+    padding: 50px 20px 0 20px;
+}
+
+.head1 a{
+    font-size: 13px;
+}
+.box3 a{
+    font-size: 18px;
+}
+
+}
+
+@media only screen and (max-width:991px){
+
+    .content h1 {
+        font-size: 40px;
+    }
+    .content p {
+        font-size: 10px;
+    }
+
+    .card {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+    .card3 h3 {
+        font-size: 16px;
+    
+    }
+.section2{
+    padding: 90px 20px;
+}
+.down{
+    font-size: 14px;
+}
+.main2{
+    width: 100%;
+    position: relative;
+    margin-top: 0;
+}
+
+.playbutton i {
+    padding: 40px 42px;
+font-size: 30px;}
+
+    .playbutton {
+        left: 39px;
+        background: none;
+        top: 40%;
+        left: 40%;
+    }
+    .playbutton h4{
+        color: transparent;
+    }
+.pro a{
+    font-size: 12px;
+        padding: 11px 58px;
+}
+.log {
+    width: 12%;
+}
+.logos{
+    padding: 0 20px;
+}
+.pro{
+    padding: 0 20px;
+}
+.topic {
+    padding-left: 170px;
+    padding-right: 450px;
+}
+
+
+.topic h3 {
+    font-size: 25px;
+}
+.form1 p{
+    font-size: 13px;
+}
+.best2 p{
+    font-size: 17px;
+}
+
+.top{
+    padding: 0 20px;
+}
+.footer1 {
+    padding: 50px 20px 0 20px;
+}
+
+.head1 a{
+    font-size: 9px;
+}
+.box3 a{
+    font-size: 10px;
+}
+.head2 a{
+    font-size: 10px;
+}
+.new{
+    padding: 19px 16px;
+    font-size: 12px;
+}
+
+.card3{
+    padding: 30px 80px 38px 55px;
+}
+.card3 p{
+    font-size: 14px
+}
+.main{
+    width: 100%;
+}
+.form p{
+    font-size: 10px;
+}
+.form1 address{
+    font-size: 11px;
+}
+.form1 a{
+    font-size: 11px;
+}
+.containes h3 {
+    font-size: 14px;
+}
+.containes p{
+    font-size: 12px;
+}
+.containes a {
+    font-size: 12px;
+}
+.footer2{
+    padding:  20px;
+}
+
+
+}
+
+@media screen and (max-width:767px){
+
+    .content h1 {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+    .content p {
+        font-size: 10px;
+    }
+
+    .card {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+    .card3 h3 {
+        font-size: 16px;
+    
+    }
+.section2{
+    padding: 90px 20px;
+}
+.down{
+    font-size: 14px;
+    padding-left: 190px;
+    padding-right: 190px;
+}
+.main2{
+    width: 100%;
+    position: relative;
+    margin-top: 0;
+}
+
+.playbutton i {
+    padding: 40px 42px;
+font-size: 30px;}
+
+    .playbutton {
+        left: 39px;
+        background: none;
+        top: 40%;
+        left: 40%;
+    }
+    .playbutton h4{
+        color: transparent;
+    }
+.pro a{
+    font-size: 12px;
+        padding: 11px 58px;
+        margin: auto;
+        display: block;
+}
+.log {
+    width: 12%;
+}
+.logos{
+    padding: 0 20px;
+}
+.pro{
+    padding: 0 20px;
+}
+.topic {
+    padding-left: 170px;
+    padding-right: 300px;
+}
+
+
+.topic h3 {
+    font-size: 25px;
+}
+.form1 p{
+    font-size: 13px;
+}
+.best2 p{
+    font-size: 17px;
+}
+
+.top{
+    padding: 0 20px;
+}
+.footer1 {
+    padding: 50px 20px 0 20px;
+}
+
+.head1 a{
+    font-size: 9px;
+}
+.box3 a{
+    font-size: 10px;
+}
+.head2 a{
+    font-size: 10px;
+}
+.new{
+    padding: 15px 8px;
+    font-size: 12px;
+}
+
+.card3{
+    padding: 30px 35px 38px 55px;
+    width: 70%;
+    margin: auto;
+    margin-top: 20px;
+}
+.card3 p{
+    font-size: 14px
+}
+.main{
+    width: 100%;
+}
+.form p{
+    font-size: 10px;
+}
+.form1 address{
+    font-size: 11px;
+}
+.form1 a{
+    font-size: 11px;
+}
+.containes h3 {
+    font-size: 14px;
+}
+.containes p{
+    font-size: 12px;
+}
+.containes a {
+    font-size: 12px;
+}
+.footer2{
+    padding:  20px;
+}
+.card1{
+    width: 50%;
+}
+.b1{
+    width: 70%;
+    margin: auto;
+    margin-bottom: 40px;
+    padding: 60px 0px 60px 80px;
+}
+.pro1{
+    width: 70%;
+    margin: auto;
+    margin-bottom: 50px;
+}
+.topic h3 {
+    font-size: 20px;
+}
+.topic h4{
+    font-size: 15px;
+}
+.form1{
+    width: 70%;
+    padding-right: 115px;
+}
+.form2{
+    width: 80%;
+    padding: 0;
+    margin-top: 30px;
+}
+
+.best1 {
+    width: 70%;
+    margin: auto;
+}
+.best2{
+    margin: auto;
+}
+.art1 {
+    width: 70%;
+    margin: auto;
+    margin-bottom: 40px;
+}
+
+
+
+}
+
+@media screen and (max-width:525px){
+
+    .owl-carousel .owl-item img {
+        display: block;
+        width: 100%;
+        height: 100vh;
+        object-fit: cover;
+    }
+
+    .card1 {
+        width: 80%;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+.card{
+    padding-top: 60px;
+}
+.down {
+    font-size: 14px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.offer {
+    font-size: 10px;
+}
+.main{
+    padding: 64px 120px 64px 105px;
+}
+
+
+.main h3 {
+    font-size: 14px;
+}
+.main p{
+    font-size: 12px;
+}
+.topic {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.form1 {
+    width: 80%;
+    padding-right: 115px;
+}
+.n{
+    padding: 10px 0;
+}
+
+.n2 {
+    width: 100%;
+    }
+
+    .best2 p {
+        font-size: 12px;
+    }
+
+
+    .upper h3{
+        font-size: 20px;
+    }
+
+    .upper a{
+        font-size: 10px;
+    }
+    .foot1 {
+        width: 90%;
+        padding-right: 70px;
+        margin-bottom: 20px;
+    }
+    .foot2 {
+        width: 90%;
+        margin-bottom: 20px;
+    }
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
